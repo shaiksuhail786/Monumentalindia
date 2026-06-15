@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // IMPORTANT: PASTE YOUR GEMINI API KEY HERE
 // Get your free key from Google AI Studio: https://aistudio.google.com/app/apikey
 // ==================================================================
-const GEMINI_API_KEY = 'AIzaSyC_FN7xmtCfwGI6L5-lUAtTDvpOyLVOQbE';
+const GEMINI_API_KEY = 'AQ.Ab8RN6Kum5iB2b1WyL_amFt2U3BRaspxe6P3jycR5frFGrgJXg';
 // ==================================================================
 
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
